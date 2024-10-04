@@ -8,6 +8,19 @@ Esse projeto faz parte do bootcamp GFT Start #6 - Lógica de Programação da DI
 
 ![index js - desafio-nivel-de-heroi - Visual Studio Code 2024-10-04 00-37-25](https://github.com/user-attachments/assets/8a42e4d9-fe78-4c1c-820f-2203e467d5c7)
 
+## Relacionados
+
+Segue alguns projetos relacionados
+
+Calculadora de partidas rankeadas: [https://github.com/AlanFabricioBarbosa/desafio-nivel-heroi-dio](https://github.com/AlanFabricioBarbosa/dio-calculadora-de-partidas-rankeadas)
+
+
+## Screenshots
+
+O que foi pedido no desafio
+
+
+![Captura de tela 2024-10-04 185255](https://github.com/user-attachments/assets/7b4742f5-3240-4190-b3e0-2176ec35126a)
 
 <h2 align="left">Contato</h2>
 
