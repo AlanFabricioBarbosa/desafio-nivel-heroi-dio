@@ -6,8 +6,7 @@ Esse projeto faz parte do bootcamp GFT Start #6 - Lógica de Programação da DI
 
 ## Demonstração
 
-
-![index js - desafio-nivel-de-heroi - Visual Studio Code 2024-10-03 20-40-23](https://github.com/user-attachments/assets/273fddfb-5b71-4c9e-918a-cfc6abc7f2d8)
+![index js - desafio-nivel-de-heroi - Visual Studio Code 2024-10-04 00-37-25](https://github.com/user-attachments/assets/8a42e4d9-fe78-4c1c-820f-2203e467d5c7)
 
 
 <h2 align="left">Contato</h2>
