@@ -14,6 +14,8 @@ Segue alguns projetos relacionados
 
 Calculadora de partidas rankeadas: https://github.com/AlanFabricioBarbosa/dio-calculadora-de-partidas-rankeadas
 
+Desafop Classes de um jogo: https://github.com/AlanFabricioBarbosa/desafio-classes-de-um-jogo
+
 
 ## Screenshots
 
