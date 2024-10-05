@@ -12,7 +12,7 @@ Esse projeto faz parte do bootcamp GFT Start #6 - Lógica de Programação da DI
 
 Segue alguns projetos relacionados
 
-Calculadora de partidas rankeadas: [https://github.com/AlanFabricioBarbosa/desafio-nivel-heroi-dio](https://github.com/AlanFabricioBarbosa/dio-calculadora-de-partidas-rankeadas)
+Calculadora de partidas rankeadas: https://github.com/AlanFabricioBarbosa/dio-calculadora-de-partidas-rankeadas
 
 
 ## Screenshots
